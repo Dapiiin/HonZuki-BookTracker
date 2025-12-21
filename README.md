@@ -32,7 +32,7 @@ HonZuki is a feature-rich book management application designed for book lovers w
 
 ---
 
-## ✨ Complete Feature List (Every Single Feature!)
+## ✨ Complete Feature List
 
 ### 📚 Library Management
 - ✅ **Multiple View Modes**
@@ -626,5 +626,6 @@ If you find HonZuki useful, please consider giving it a star! ⭐
 ---
 
 **Made with ❤️ for book lovers, by a book lover**
+
 
 *Happy Reading!*
