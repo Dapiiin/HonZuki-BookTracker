@@ -5,29 +5,23 @@ All notable changes to HonZuki will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.3.0] - 2025-12-23 (Current Release)
-
+## [1.3.1] - 2025-12-24
 ### ✨ Added
-- **Advance Shelf Management** - Comprehensive tools for organizing your shelves
-  - **"Add Books" Page** - Dedicated page (`/shelves/[id]/add`) to bulk add books with filtering and local search
-  - **Shelf Selection UI** - Persistent bottom bar for managing books within a shelf
-    - Select Mode with "Select All" / "Deselect All" options
-    - Bulk "Remove" and "Add to Another Shelf" actions
-  - **Smart Creation** - "Add books immediately" option when creating a new shelf
-- **Shelf Search** - Real-time client-side search bar within shelf details to find books by title or author
-
-
-### 🎨 Redesigned
-
+- **Book Details** - Added "Move to Wishlist" option in the "More" menu to send a book back to your wishlist (resets reading progress)
 
 ### 🔧 Improved
-- **Library Features**
-  - **In-Page Search** - Filter books by title, author, publisher directly in the library view
-  - **Enhanced Selection** - "Select All" option, persistent selection state, and improved UI
+- **Add Book**
+  - **Duplicate Prevention** - Added strict, aggressive duplicate prevention. It effectively normalizes titles (ignoring "Vol", "Volume", "Book", "Part") to catch matches like "The Boxer Vol 3" and "The Boxer 3", while correctly distinguishing distinct editions like "The Boxer Novel".
+  - **Smart Search** - Search results now automatically filter out books you already own or have wishlisted. The system now fetches **80 books** per search to ensure you still get 40 relevant results even after filtering.
+- **Library**
+  - **Filter UX** - Removed redundant "Genre" filter (since dedicated page exists) and added scrolling to filter dropdowns for better handling of long lists
+- **Add Book**
+  - **Defaults** - "Format" field now defaults to "Paperback"
+- **Search**
+  - **Series Parsing** - Title search now prioritizes matching against your *existing* library series, preventing duplicate or mismatched series entries
 
 ### 🐛 Fixed
-- **Shelf Filtering** - Fixed bug where viewing a shelf displayed all books from the library
-- **Shelf Sorting** - Shelves are now correctly sorted alphabetically (case-insensitive)
+- **Navigation Scroll** - Fixed issue where pages would remain scrolled down after navigation (e.g., after adding a book to wishlist)
 
 
 ### ⚠️ Known Issues / Current Status
